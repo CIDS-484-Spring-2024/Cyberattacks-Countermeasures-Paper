@@ -18,3 +18,11 @@ Research paper on the the many types of cyberattacks and their countermeasures/p
 - XSS attacks
 
 ## The Countermeasures for the Types of Cyberattacks
+- Physical security
+- Operational security
+- Financial security
+- Legal security
+- Identity and access management
+- Network security controls
+- Intrusion detection and prevention systems
+- Data loss prevention and recovery
